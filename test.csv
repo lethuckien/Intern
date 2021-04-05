@@ -1,0 +1,4 @@
+id,email,accepts_marketing,created_at,updated_at,first_name,last_name,orders_count,state,total_spent,last_order_id,note,verified_email,multipass_identifier,tax_exempt,phone,tags,last_order_name,currency,addresses,accepts_marketing_updated_at,marketing_opt_in_level,tax_exemptions,admin_graphql_api_id,default_address
+5150501109937,email@email.com,False,2021-04-05T14:50:27+07:00,2021-04-05T14:50:27+07:00,More,Customer,0,disabled,0.00,,,True,,False,+84833344455,,,VND,,2021-04-05T14:50:27+07:00,,[],gid://shopify/Customer/5150501109937,
+5150499504305,moecarl@gmail.com,False,2021-04-05T14:48:56+07:00,2021-04-05T14:48:56+07:00,Moe,Carl,0,disabled,0.00,,,True,,False,+84363636363,,,VND,,2021-04-05T14:48:56+07:00,,[],gid://shopify/Customer/5150499504305,
+5150498652337,tesstickles147@gmail.com,False,2021-04-05T14:47:50+07:00,2021-04-05T14:47:50+07:00,Lê,Kiên,0,disabled,0.00,,,True,,False,+84382312341,,,VND,,2021-04-05T14:47:50+07:00,,[],gid://shopify/Customer/5150498652337,
