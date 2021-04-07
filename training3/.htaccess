@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteRule ^([^/]+)/([0-9]+)/?$ /controller/control_post.php?action=$1&id=$2 [L,QSA]
+RewriteRule ^([a-z_]+)/?$ /controller/control_post.php?action=$1 [L,QSA]
